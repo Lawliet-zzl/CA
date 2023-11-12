@@ -8,7 +8,7 @@ Create a folder named "checkpoints," and download the standard network from the 
 ## Datasets
 ### In-distribution Datasets
 * [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html)
-* [Mini-Imagenet]([https://www.cs.toronto.edu/~kriz/cifar.html](https://github.com/yaoyao-liu/mini-imagenet-tools)https://github.com/yaoyao-liu/mini-imagenet-tools)
+* [Mini-Imagenet](https://github.com/yaoyao-liu/mini-imagenet-tools)
 
 ### Out-of-Distribtion Datasets
 Create a folder named "data," and download the OOD datasets from the link below. Place it inside this folder.
