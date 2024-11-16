@@ -1,4 +1,4 @@
-# Code for "Out-of-Distribution Knowledge Distillation via Confidence Amendment"
+# Code for "Distilling the Unknown to Unveil Certainty"
 
 ##Standard Network
 Create a folder named "checkpoints," and download the standard network from the link below. Place it inside this folder.
