@@ -19,6 +19,7 @@ Create a folder named "data," and download the OOD datasets from the link below.
 * [Caltech256](https://www.kaggle.com/jessicali9530/caltech256)
 * [DTD47](https://www.robots.ox.ac.uk/~vgg/data/dtd)
 * [COCO](https://cocodataset.org)
+Please refer to [OpenOOD](https://github.com/Jingkang50/OpenOOD) for more OOD benchmarks.
 
 ## Run CA-
 ```python
