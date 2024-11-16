@@ -3,7 +3,7 @@
 ##Standard Network
 Create a folder named "checkpoints," and download the standard network from the link below. Place it inside this folder.
 * [The standard network learned from CIFAR10](https://drive.google.com/file/d/1k3f2XopwrreyXG7M4mW5ANZX317JZK6Z/view?usp=sharing)
-* [The standard network learned from Imagenet](https://pytorch.org/vision/stable/_modules/torchvision/models/resnet.html#ResNet50_Weights)
+* [The standard network learned from ImageNet](https://pytorch.org/vision/stable/_modules/torchvision/models/resnet.html#ResNet50_Weights)
 
 ## Datasets
 ### In-distribution Datasets
