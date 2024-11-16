@@ -3,12 +3,12 @@
 ##Standard Network
 Create a folder named "checkpoints," and download the standard network from the link below. Place it inside this folder.
 * [The standard network learned from CIFAR10](https://drive.google.com/file/d/1k3f2XopwrreyXG7M4mW5ANZX317JZK6Z/view?usp=sharing)
-* [The standard network learned from Mini-Imagenet](https://drive.google.com/file/d/1E50pmG6t83bGwa-aFKYNNgeQQkNaaUP6/view?usp=sharing)
+* [The standard network learned from Imagenet](https://pytorch.org/vision/stable/_modules/torchvision/models/resnet.html#ResNet50_Weights)
 
 ## Datasets
 ### In-distribution Datasets
 * [CIFAR10](https://www.cs.toronto.edu/~kriz/cifar.html)
-* [Mini-Imagenet](https://github.com/yaoyao-liu/mini-imagenet-tools)
+* [Imagenet](https://www.image-net.org/)
 
 ### Out-of-Distribtion Datasets
 Create a folder named "data," and download the OOD datasets from the link below. Place it inside this folder.
