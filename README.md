@@ -24,12 +24,12 @@ Create a folder named "data," and download the OOD datasets from the link below.
 ## Run CA-
 ```python
 python Generator.py --T 1000 --gap 200 --lr 0.05 --save --generator 'DI'
-python Discriminator.py --epoch 200 --T 1000 --gap 200 --generator 'DI' --alpha 0.1
+python Discriminator.py --epoch 200 --T 1000 --gap 200 --generator 'DI'
 ```
 
 ## Run CA+
 ```python
 python Generator.py --T 1000 --gap 200 --lr 0.05 --save --generator 'DR'
-python Discriminator.py --epoch 200 --T 1000 --gap 200 --generator 'DR' --alpha 0.1
+python Discriminator.py --epoch 200 --T 1000 --gap 200 --generator 'DR'
 ```
 
